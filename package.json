@@ -1,0 +1,13 @@
+{
+  "name": "wattup-whatsapp-webhook",
+  "version": "1.0.0",
+  "description": "Webhook para automatizar mensajes de Messenger a WhatsApp",
+  "main": "webhook-wattup.js",
+  "scripts": {
+    "start": "node webhook-wattup.js",
+    "dev": "node webhook-wattup.js"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
